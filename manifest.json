@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "locale": "English_Australia.1252",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "main"
+  },
+  "python": {
+    "version": "3.10.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "21.1.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "4354e61e8d2aabc158687131b5c82a59"
+    },
+    ".idea/.gitignore": {
+      "checksum": "39a31dab4c9ddc623f62a001753f531a"
+    },
+    ".idea/PythonDashboard.iml": {
+      "checksum": "5a387226a8202995889b26f755b93841"
+    },
+    ".idea/inspectionProfiles/profiles_settings.xml": {
+      "checksum": "05dbe611f5bdb7a801adb3f064d4bfa9"
+    },
+    ".idea/misc.xml": {
+      "checksum": "bf969448e436ad5723b63d4068f3c397"
+    },
+    ".idea/modules.xml": {
+      "checksum": "7deed10c404d2c1e940b4aad806ad79f"
+    },
+    ".idea/vcs.xml": {
+      "checksum": "a8b625cb090fe904fb7338f6447f50ac"
+    },
+    ".idea/workspace.xml": {
+      "checksum": "c9cb3cb57c2a0f5dda21d6419028b63e"
+    },
+    "main.py": {
+      "checksum": "ab494f74dec01f9eee8c5d613ac14562"
+    }
+  }
+}
